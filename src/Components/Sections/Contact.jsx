@@ -20,7 +20,7 @@ export const Contact = () => {
           <a href="https://www.linkedin.com/in/shah-rabbani-chowdhury-764630355/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </a>
-          ``
+          
         </div>
         <br />
 
