@@ -9,6 +9,8 @@ import { About } from './Components/Sections/About'
 import { Projects } from './Components/Sections/Projects'
 import { Contact } from './Components/Sections/Contact'
 
+
+
 function App() {
   const [isLoaded, setIsLoaded] = useState(false)
   const [MenuOpen, setMenuOpen] = useState(false)
